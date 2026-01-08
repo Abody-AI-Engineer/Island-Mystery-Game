@@ -1,5 +1,5 @@
 # 🏝️ The Island Mystery Game
-![Project Flowchart](Flowchartp.jpg)
+![Project Flowchart](Flowchartq.jpg)
 
 Welcome to the Island! A logic-driven adventure game where every choice determines your fate.
 

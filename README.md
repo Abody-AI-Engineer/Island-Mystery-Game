@@ -1,4 +1,5 @@
 # 🏝️ The Island Mystery Game
+
 Welcome to the Island! A logic-driven adventure game where every choice determines your fate.
 
 ## 🚀 Overview
@@ -17,4 +18,4 @@ This project is a text-based game designed to demonstrate advanced Python fundam
 
 ## 🛠️ Built With
 - Python 3
-- Logic and Passion!
+- Logic and Passi
